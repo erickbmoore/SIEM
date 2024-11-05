@@ -29,26 +29,26 @@ This SIEM solution helps enhance security monitoring by not only providing detai
 
 <p align="center">
 Log Analytics Extraction:  <br/>
-<img src="https://imgur.com/pm8s3C2.png" height="90%" width="90%" alt="SIEM"/>
+<img src="https://imgur.com/pm8s3C2.png" height="100%" width="100%" alt="SIEM"/>
 <br />
 <br />
 Log Analytics Extraction Part 2: <br/>
-<img src="https://imgur.com/kERIE0j.png" height="90%" width="90%" alt="SIEM"/>
+<img src="https://imgur.com/kERIE0j.png" height="100%" width="100%" alt="SIEM"/>
 <br />
 <br />
 Virtual Machine Access and Powershell Script with Failed Login Attempt:  <br/>
-<img src="https://imgur.com/btg8msa.png" height="90%" width="90%" alt="SIEM"/>
+<img src="https://imgur.com/btg8msa.png" height="100%" width="100%" alt="SIEM"/>
 <br />
 <br />
 World Map Real-Time Attacks with Script Running:  <br/>
-<img src="https://imgur.com/x1Ha5H4.png" height="90%" width="90%" alt="SIEM"/>
+<img src="https://imgur.com/x1Ha5H4.png" height="100%" width="100%" alt="SIEM"/>
 <br />
 <br />
 World Map 1000+ Attack Attempts:  <br/>
-<img src="https://imgur.com/otiAbrU.png" height="90%" width="90%" alt="SIEM"/>
+<img src="https://imgur.com/otiAbrU.png" height="100%" width="100%" alt="SIEM"/>
 <br />
 <br />
 World Map Extraction Script:  <br/>
-<img src="https://imgur.com/2vvAgm7.png" height="90%" width="90%" alt="SIEM"/>
+<img src="https://imgur.com/2vvAgm7.png" height="100%" width="100%" alt="SIEM"/>
 <br />
 <br />
